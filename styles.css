@@ -1,3 +1,10 @@
-/* styles.css */
+* {
+  padding: 0;
+  margin: 0;
+}
 
-/* Add styles here to customize the appearance of your app */
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: aquamarine;
+}
